@@ -99,7 +99,7 @@
   * https://github.com/veltman/flubber [Morphing]
   * http://animejs.com/ [Morphing] 
   * https://popmotion.io/ 
-  * http://mojs.io/
+  * http://mojs.io/ (업데이트 안함)
     * [Guest Tutorial #2: Web Animations and Mo.js with Sarah Drasner](https://www.youtube.com/watch?v=yRxWa8lXasI&feature=youtu.be)
 
 ### SVG Demo
